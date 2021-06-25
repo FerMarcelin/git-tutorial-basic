@@ -8,3 +8,5 @@ Agrego esta línea de texto desde el editor en línea para hacer un 'pull' desde
 Esta linea es para demostracion de Github desktop <3
 
 PRUEBA MIL.
+
+Ahora esta liea corresponde al uso del plugin de github en VSCode.
